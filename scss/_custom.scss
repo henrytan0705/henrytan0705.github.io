@@ -1,0 +1,40 @@
+.skill-icon-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100px;
+    width: 100px;
+    margin: 5px 50px;
+}
+
+.skill-icon {
+    display: inline-block;
+    font-size: 75px;
+}
+
+h3 {
+    color: white;
+    font-size: 20px;
+}
+
+.skills-section-container {
+    display: flex;
+    flex-wrap: wrap;
+    // border: 1px solid red;
+    height: 500px;
+    width: 610px;
+    margin: auto;
+}
+
+.projects-text {
+    text-align: center;
+    padding-bottom: 15px;
+}
+
+.skill-icon2 {
+    height: 80px;
+}
+
+.skill-icon-section2 {
+    margin: 0px 60px;
+}
