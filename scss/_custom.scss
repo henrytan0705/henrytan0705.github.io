@@ -21,8 +21,10 @@ h3 {
     display: flex;
     flex-wrap: wrap;
     // border: 1px solid red;
-    height: 500px;
-    width: 610px;
+    // height: 500px;
+    // width: 610px;
+    justify-content: center;
+    align-items: center;
     margin: auto;
 }
 
