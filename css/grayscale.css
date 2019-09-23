@@ -168,6 +168,7 @@
 
 .about-section {
   padding-top: 5rem;
+  padding-bottom: 5rem;
   background: -webkit-gradient(linear, left top, left bottom, from(#161616), color-stop(75%, rgba(22, 22, 22, 0.9)), to(rgba(22, 22, 22, 0.8)));
   background: linear-gradient(to bottom, #161616 0%, rgba(22, 22, 22, 0.9) 75%, rgba(22, 22, 22, 0.8) 100%);
 }
@@ -325,6 +326,19 @@ h3 {
 
 .skill-icon-section2 {
   margin: 0px 60px;
+}
+
+.name {
+  font-size: 50px;
+  color: white;
+  font-weight: 700;
+}
+
+.link-button {
+  background-color: #64a19d;
+  border: 1px solid lightgray;
+  border-radius: 4px;
+  color: white;
 }
 
 body {
