@@ -1,79 +1,78 @@
 .skill-icon-section {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    height: 100px;
-    width: 100px;
-    margin: 5px 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100px;
+  width: 100px;
+  margin: 5px 50px;
 }
 
 .skill-icon {
-    display: inline-block;
-    font-size: 75px;
+  display: inline-block;
+  font-size: 75px;
 }
 
 h3 {
-    color: white;
-    font-size: 20px;
+  color: white;
+  font-size: 20px;
 }
 
 .skills-section-container {
-    display: flex;
-    flex-wrap: wrap;
-    // border: 1px solid red;
-    // height: 500px;
-    // width: 610px;
-    justify-content: center;
-    align-items: center;
-    margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+  // border: 1px solid red;
+  // height: 500px;
+  // width: 610px;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
 }
 
 .projects-text {
-    text-align: center;
-    padding-bottom: 15px;
+  text-align: center;
+  padding-bottom: 15px;
 }
 
 .skill-icon2 {
-    height: 80px;
+  height: 80px;
 }
 
 .skill-icon-section2 {
-    margin: 0px 60px;
+  margin: 0px 60px;
 }
 
 .name {
-    font-size: 50px;
-    color: white;
-    font-weight: 700;
+  font-size: 50px;
+  color: white;
+  font-weight: 700;
 }
 
 .position {
-
 }
 
 .link-button {
-    background-color: #64a19d;
-    border: 1px solid lightgray;
-    border-radius: 20px;
-    // color: #64a19d;
-    color: white;
-    padding: 5px 10px;
+  background-color: #64a19d;
+  border: 1px solid lightgray;
+  border-radius: 20px;
+  // color: #64a19d;
+  color: white;
+  padding: 5px 10px;
 }
 
 .about-buttons {
-    // display: flex;
-    // display: block;
-    // align-items: left;
-    // align-items: center;
-    // flex-direction: column;
+  // display: flex;
+  // display: block;
+  // align-items: left;
+  // align-items: center;
+  // flex-direction: column;
 }
 
 .project-description {
-    padding-bottom: 20px;
+  padding-bottom: 20px;
 }
 
 .technologies {
-    font-size: 14px;
-    color: rgba(0, 0, 0, 0.5);
-    line-height: 1.5rem;
+  font-size: 14px;
+  color: rgba(0, 0, 0, 0.5);
+  line-height: 1.5rem;
 }

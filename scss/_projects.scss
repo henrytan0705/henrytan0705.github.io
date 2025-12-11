@@ -14,9 +14,14 @@
       padding: 5rem;
       hr {
         border-color: $primary;
-        border-width: .25rem;
+        border-width: 0.25rem;
         width: 30%;
       }
     }
   }
+}
+
+.disabled-button {
+  text-decoration: line-through;
+  background: red !important;
 }
